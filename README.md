@@ -1,5 +1,7 @@
 > python3 scrape.py 
 
+
+```
 --- Validating query: 'Top Trader Jobe Goods' ---
 Expected Group IDs: ['2324243', '425343141']
   FAILURE: No matching group found in the top search results.
@@ -15,3 +17,4 @@ Expected Group IDs: ['987654321', '555444333']
   FAILURE: No matching group found in the top search results.
 --- Processing complete. ---
 Results have been saved to 'results.csv'.
+```
